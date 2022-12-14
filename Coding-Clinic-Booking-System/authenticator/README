@@ -1,0 +1,12 @@
+modules used:
+    csv
+    sys
+    os
+    inspect
+    re
+    whirlpool
+    #pip3 install whirlpool
+    stdiomask
+    #pip3 install stdiomask
+
+Creating a new user, encrypting their password, doing a login auth.

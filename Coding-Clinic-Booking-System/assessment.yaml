@@ -1,0 +1,70 @@
+student: taismail@student.wethinkcode.co.za
+team: 9
+repo: https://github.com/Pietertjie000108/Coding-Clinic-Booking-System.git
+teammates:
+- jkokot
+- mnnyembe
+- nmeintjies
+- ifraans
+- ipretori
+- ndooge
+self_assessment:
+  ability:
+    self: 2
+    expected: 2
+  attitude:
+    self: 3
+    expected: 2
+  ownership:
+    self: 3
+    expected: 3
+  professionalism:
+    self: 2
+    expected: 2
+  teamwork:
+    self: 4
+    expected: 3
+peer_assessment:
+- recipient: jkokot
+  ability: 4
+  attitude: 3
+  ownership: 3
+  professionalism: 2
+  teamwork: 3
+- recipient: mnnyembe
+  ability: 4
+  attitude: 3
+  ownership: 3
+  professionalism: 3
+  teamwork: 3
+- recipient: nmeintjies
+  ability: 3
+  attitude: 2
+  ownership: 2
+  professionalism: 2
+  teamwork: 2
+- recipient: ifraans
+  ability: 3
+  attitude: 2
+  ownership: 1
+  professionalism: 1
+  teamwork: 1
+- recipient: ipretori
+  ability: 3
+  attitude: 3
+  ownership: 3
+  professionalism: 3
+  teamwork: 4
+- recipient: ndooge
+  ability: 4
+  attitude: 3
+  ownership: 3
+  professionalism: 3
+  teamwork: 3
+team_assessment:
+  communication: 3
+  collaboration: 2
+  engineering: 2
+  usability: 1
+  functionality: 2
+  programming: 1
